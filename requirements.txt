@@ -1,0 +1,5 @@
+streamlit
+# Library to connect to Snowflake via the Python Connector API
+snowflake-connector-python
+# Library for Snowpark functionality (optional, but good practice if you use st.connection().session()....)
+snowflake-snowpark-python
